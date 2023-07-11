@@ -175,6 +175,9 @@ dataset.py, loss.py의 함수를 import 해서 사용함
 <br/>
 
 ## <span style='color:black;background-color:#fff5b1'>최종 모델</spam>
+- ### **결과**
+    Public [3/19] mIoU : 0.7698 → Private [4/19] mIoU 0.7826
+
 - ### **모델 구조**
     <img src="https://ifh.cc/g/3ZDJBs.png">
 <br/>
